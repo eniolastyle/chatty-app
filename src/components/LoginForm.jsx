@@ -39,7 +39,7 @@ const LoginForm = () => {
   return (
     <div className="wrapper">
       <div className="form">
-        <h1 className="title">Chat Application</h1>
+        <h1 className="title">Chatty Messaging App</h1>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
@@ -61,7 +61,7 @@ const LoginForm = () => {
           />
           <div align="center">
             <button className="button" type="submit">
-              <span>Start Chatting</span>
+              <span>Start Chatty</span>
             </button>
           </div>
           <h2 className="error">{error}</h2>
