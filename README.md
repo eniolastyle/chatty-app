@@ -1,3 +1,7 @@
+# App in action:
+chatyy-app.netlify.app
+[Chatty App](https://chatyy-app.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
