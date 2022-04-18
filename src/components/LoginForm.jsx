@@ -39,7 +39,7 @@ const LoginForm = () => {
   return (
     <div className="wrapper">
       <div className="form">
-        <h1 className="title">Chatty Messaging App</h1>
+        <h1 className="title">Chatty Messaging Application</h1>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
